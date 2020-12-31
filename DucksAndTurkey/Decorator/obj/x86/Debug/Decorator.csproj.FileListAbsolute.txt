@@ -1,0 +1,4 @@
+E:\1.3 Work\II курс\203_ООАиП\DucksAndTurkey\Decorator\bin\Debug\Decorator.exe
+E:\1.3 Work\II курс\203_ООАиП\DucksAndTurkey\Decorator\bin\Debug\Decorator.pdb
+E:\1.3 Work\II курс\203_ООАиП\DucksAndTurkey\Decorator\obj\x86\Debug\Decorator.exe
+E:\1.3 Work\II курс\203_ООАиП\DucksAndTurkey\Decorator\obj\x86\Debug\Decorator.pdb

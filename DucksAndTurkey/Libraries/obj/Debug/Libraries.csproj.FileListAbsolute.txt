@@ -1,0 +1,4 @@
+E:\1.3 Work\II курс\203_ООАиП\DucksAndTurkey\Libraries\bin\Debug\Libraries.dll
+E:\1.3 Work\II курс\203_ООАиП\DucksAndTurkey\Libraries\bin\Debug\Libraries.pdb
+E:\1.3 Work\II курс\203_ООАиП\DucksAndTurkey\Libraries\obj\Debug\Libraries.dll
+E:\1.3 Work\II курс\203_ООАиП\DucksAndTurkey\Libraries\obj\Debug\Libraries.pdb

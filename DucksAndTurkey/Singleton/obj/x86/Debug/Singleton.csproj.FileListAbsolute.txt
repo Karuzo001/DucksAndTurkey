@@ -1,0 +1,4 @@
+E:\1.3 Work\II курс\203_ООАиП\DucksAndTurkey\Singleton\bin\Debug\Singleton.exe
+E:\1.3 Work\II курс\203_ООАиП\DucksAndTurkey\Singleton\bin\Debug\Singleton.pdb
+E:\1.3 Work\II курс\203_ООАиП\DucksAndTurkey\Singleton\obj\x86\Debug\Singleton.exe
+E:\1.3 Work\II курс\203_ООАиП\DucksAndTurkey\Singleton\obj\x86\Debug\Singleton.pdb

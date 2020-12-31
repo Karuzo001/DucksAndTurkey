@@ -1,0 +1,7 @@
+E:\1.3 Work\II курс\203_ООАиП\DucksAndTurkey\Adapter\bin\Debug\Adapter.exe
+E:\1.3 Work\II курс\203_ООАиП\DucksAndTurkey\Adapter\bin\Debug\Adapter.pdb
+E:\1.3 Work\II курс\203_ООАиП\DucksAndTurkey\Adapter\obj\x86\Debug\Adapter.exe
+E:\1.3 Work\II курс\203_ООАиП\DucksAndTurkey\Adapter\obj\x86\Debug\Adapter.pdb
+E:\1.3 Work\II курс\203_ООАиП\DucksAndTurkey\Adapter\obj\x86\Debug\Adapter.csprojResolveAssemblyReference.cache
+E:\1.3 Work\II курс\203_ООАиП\DucksAndTurkey\Adapter\bin\Debug\Libraries.dll
+E:\1.3 Work\II курс\203_ООАиП\DucksAndTurkey\Adapter\bin\Debug\Libraries.pdb

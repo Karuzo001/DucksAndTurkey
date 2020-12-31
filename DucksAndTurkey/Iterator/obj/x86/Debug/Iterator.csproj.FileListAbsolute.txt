@@ -1,0 +1,4 @@
+E:\1.3 Work\II курс\203_ООАиП\DucksAndTurkey\Iterator\bin\Debug\Iterator.exe
+E:\1.3 Work\II курс\203_ООАиП\DucksAndTurkey\Iterator\bin\Debug\Iterator.pdb
+E:\1.3 Work\II курс\203_ООАиП\DucksAndTurkey\Iterator\obj\x86\Debug\Iterator.exe
+E:\1.3 Work\II курс\203_ООАиП\DucksAndTurkey\Iterator\obj\x86\Debug\Iterator.pdb
